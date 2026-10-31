@@ -16,7 +16,7 @@ My solutions to Data Structures and Algorithms problems using C++.
 - [Codolio](KUSHrit_02)
 - [LeetCode](Kushrit_02)
 - [CodeChef](kushrit_02)
-- [Codeforces](Ritesh_Kushwaha)
+- [Codeforces](https://codeforces.com/profile/Ritesh_Kushwaha)
 - [GeeksforGeeks](kushriap4d)
 
 ## Topics Practiced
