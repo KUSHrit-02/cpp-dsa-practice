@@ -13,11 +13,11 @@ My solutions to Data Structures and Algorithms problems using C++.
 
 ## Coding Profiles
 
-- [Codolio](KUSHrit_02)
-- [LeetCode](Kushrit_02)
-- [CodeChef](kushrit_02)
+- [Codolio](https://codolio.com/profile/KUSHrit_02)
+- [LeetCode](https://leetcode.com/u/Kushrit_c29/)
+- [CodeChef](https://www.codechef.com/users/kushrit_02)
 - [Codeforces](https://codeforces.com/profile/Ritesh_Kushwaha)
-- [GeeksforGeeks](kushriap4d)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kushriap4d)
 
 ## Topics Practiced
 
